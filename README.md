@@ -1,7 +1,7 @@
-Role Name
+Role MyApache
 =========
 
-A brief description of the role goes here.
+This role configures a webserver, displaying a web page with the local IP.
 
 Requirements
 ------------
